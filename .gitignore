@@ -1,0 +1,6 @@
+.vs
+x64
+/ffmpeg_gui_demo/*.aac
+/ffmpeg_gui_demo/x64
+/ffmpeg_gui_demo/*.pcm
+/ffmpeg_gui_demo/*.log
